@@ -38,6 +38,10 @@ This SOP describes the process to setup the test stand PC. Many of the steps are
 - 2 [Push-to-Connect Tube Fittings](https://www.mcmaster.com/catalog/131/227/5779K108)
 - MicroUSB-to-USB Cable
 
+### ADC Board Acessories
+
+- USB-to-Micro USB cable
+
 ### Step 1: Install Software
 
 Follow ```Install_Software.pdf``` to install AlmaLinux9 and needed software to run Ph2_ACF_GUI. Some specific instructions/addendums for our setup are below:
@@ -50,13 +54,32 @@ Follow pages 1 to 10 in ```FC7_Setup.pdf``` to connect the FC7 to the test stand
 
 1. Our FC7's MAC address is ```08:00:30:00:29:73``` . You don't need to use Wireshark to find it.
 2. We only have one FC7, so we call the FC7 ```fc7``` (as opposed to ```fc7-1```) in our test stand PC.
-3. For some steps, there are different instructionsfor diffrent operating systems.Since our test stand PC runs AlmaLinux9, be sure you're running the commands intended for AlmaLinux9.
+3. For some steps, there are different instructions for diffrent operating systems.Since our test stand PC runs AlmaLinux9, be sure you're running the commands intended for AlmaLinux9.
 4. Ignore any instructions that are specific to ```Ph2_ACF``` ; we will be running ```Ph2_ACF_GUI``` .
+5. You will need to plug a mini-HDMI into the FMC card's first port and thread the other end through the hold in the side of the cold box.
 
 ### Step 3: Setup Keithley 2470
 
+1. Plug the power cable into the wall and the Keithley 2470
+2. Connect the Keithley to the PC using a USB-B-to-USB-A cable. The USB-B connects to the Keithley.
+3. Connect the banana plug splitter to BNC connector into the Keithley's FORCE HI and FORCE LO terminals on the front of the Keithley. Make sure the ground ("GND") tab on the side of splitter is pointing down.
+4. Connect the BNC-to-MCX connector to the female BNC on the banana splitter. Thread the cable through the hole in the side of the coldbox.
+
 ### Step 4: Setup Keysight E3633A
+
+1. Plug the power cable into the wall and the KeysightE3633A
+2. Connect the Keysight to the PC using the RS232-to-USB cable.
+3. Plug in the 4 male banana plugs that lead to the 4-pin Molex into the from terminals of the Keysight. The plugs are color-coded with the terminals, and the terminals of like color are connected with metal bridges, so it does not matter which red/black banana plug connects to either red/black terminal. Thread the 4-pin Molex connector through the hole in the side of the coldbox.
 
 ### Step 5: Setup Coldbox Electronics Box
 
-### Step 6: Install ```Ph2_ACF_GUI```
+1. Plug the coldbox power cable into the wall. The coldbox power cable is built in to the coldbox. There's also no ON/OFF switch, so plugging/unplugging the coldbox is how one turns it on/off.
+2. Connect the built-in RS232 connect to a RS232-to-USB adapter. Plug the USB into the PC.
+
+### Step 6: Setup ADC Board
+
+1. Connect the USB end of a USB-to-micro USB cable to the PC. Thread the micro USB end through the hole in the coldbox.
+
+### Step 7: Install ```Ph2_ACF_GUI```
+
+1. Follow the instructions on the [Ph2_ACF_GUI Getting Started page](https://github.com/OSU-CMS/Ph2_ACF_GUI/wiki/Getting-Started).
