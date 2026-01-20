@@ -9,7 +9,6 @@
 <summary>General Comments</summary>
 
   - [ ] Add pictures of all required materials
-  - [ ] The phrasing should be imperative: Rather than "We conduct detailed inspection...", say to the reader "Conduct a detailed inspection..."
 
 </details>
 
@@ -22,6 +21,10 @@
     - Mixing nozzle
     - Stencil
     - Glue spreader (e.g. plastic card)
+
+|Glue|Mixing nozzle|Stencil|Glue spreader (e.g. plastic card)|
+|-|-|-|-|
+|![glue_gun](./TFPX-101-materials/images/glue_gun.jpg)|![mixing_nozzle](./TFPX-101-materials/images/mixing_nozzle.jpg)|![module_stencil](./TFPX-101-materials/images/module_stencil.jpg)|![glue_spreader](./TFPX-101-materials/images/glue_spreader.jpg)|
 - Equipment
     - Gantry
     - 1x2 module assembly gantry tooling
@@ -33,7 +36,7 @@
 
 ### Step 1: Inspect parts
 
-Upon receiving new components, we conduct a detailed inspection of the SRAs to spot for any damage done prior to our handling of the components/module. Any damage done after this point will ideally be easier to pinpoint to a specific mishandling or part of our procedure that can be learned from and avoided in the future. A sufficient inspection entails pictures of both sides of the SRA that would capture any chips or scratches. Any noticeable damage to the HDI should also be documented. 
+Upon receiving new components, conduct a detailed inspection of the SRAs to spot for any damage done prior to our handling of the components/module. Any damage done after this point will ideally be easier to pinpoint to a specific mishandling or part of our procedure that can be learned from and avoided in the future. A sufficient inspection entails pictures of both sides of the SRA that would capture any chips or scratches. Any noticeable damage to the HDI should also be documented. 
 
 The picture of the SRA can be done with either a microscope or the gantry camera. Here is an example of a set that captures the entire SRA using the microscope.
 
@@ -44,7 +47,7 @@ The picture of the SRA can be done with either a microscope or the gantry camera
 
 Here is a method for taking these that minimizes handling:
 1. Put on nitrile gloves in addition to required cleanroom apparel
-2. Image whatever side faces up in the gelpak **Caleb: should be more proscriptive, "Image the sensor side of the SRA"**
+2. Image the SRA while it's in the gelpak (ROC side should be facing up on arrival)
 3. Put gelpak on the gelpak vacuum release tooling
 4. Open gScript Interpreter in nonvirtual mode
 5. Turn on the vacuum line (gScript command: `setvac gelpak_release 1`)
@@ -54,12 +57,9 @@ Here is a method for taking these that minimizes handling:
 9. Turn off the vacuum line (gScript command: `setvac gelpak_release 0`)
 10. Image other side
 
-**Caleb: We should confirm that we are required to image both sides of the SRA. I feel like we would spot 95% of issues by imaging just the sensor side, and this flipping procedure seems to introduce extra handling that could be avoided.**
-
-
 ### Step 2: Weigh and stage parts
 
-To know how much glue was used to adhere the module together, we weigh the components before the assembly and the module after assembly, and subtract the difference. Here is how to do this step safely:
+To know how much glue was used to adhere the module together, weigh the components before the assembly and the module after assembly, and subtract the difference. Here is how to do this step safely:
 
 1. Put on nitrile gloves in addition to required cleanroom apparel
 2. Remove everything from the high precision mass scale

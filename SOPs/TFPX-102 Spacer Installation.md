@@ -22,6 +22,10 @@
     - Stencil
     - Glue spreader (e.g. plastic card)
 
+|Glue|Mixing nozzle|Stencil|Glue spreader (e.g. plastic card)|
+|-|-|-|-|
+|![glue_gun](./TFPX-102-materials/images/glue_gun.jpg)|![mixing_nozzle](./TFPX-102-materials/images/mixing_nozzle.jpg)|![spacer_stencil](./TFPX-102-materials/images/spacer_stencil.jpg)|![glue_spreader](./TFPX-102-materials/images/glue_spreader.jpg)|
+
 ## Procedure
 
 ### Step 1: Stage parts
