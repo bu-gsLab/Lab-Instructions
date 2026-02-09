@@ -98,7 +98,9 @@ To know how much glue was used to adhere the module together, weigh the componen
 
 Below is an image of what the components should look like after they are staged:
 
-INSERT IMAGE
+|Staged Components|
+|-|
+|![staged parts](./TFPX-101-materials/images/staging.jpg)|
 
 ### Step 3: Run assembly script
 
@@ -129,7 +131,7 @@ Then click run script and follow the instructions in the pop-ups. Once you arriv
 
 |Step 3/4|Step 5/6|Step 10|
 |-|-|-|
-|HDI PICTURE|STENCIL OVER HDI|GLUE LINE ON STENCIL|
+|![step 3&4](./TFPX-101-materials/images/step3&4.jpg)|![step 5&6](./TFPX-101-materials/images/step5&6.jpg)|![step 10](./TFPX-101-materials/images/step10.jpg)|
 
 At this point, you can continue with the script, which will then do a survey of the glue pattern, which you should look at to ensure there is glue in all the spots there should be.
 
@@ -143,9 +145,11 @@ You can now continue through the script until you have completed the final step 
 
 After the assembly script, you must let the glue cure for at least 8 hours. Make sure to leave the vacuum lines of both the assembly chuck and HDI weight tool on. Also direct the hose of the weight tool upwards as seen in the picture below. Lastly, put a note next to the curing module saying "DO NOT TOUCH, GLUE CURING" or something along those lines so no one unknowingly interferes with this process.
 
-INSERT PICTURE
+|Curing|
+|-|
+|![Curing](./TFPX-101-materials/images/curing.jpg)|
 
-You should also take this time to clean the materials that have glue on them. You can take off the mixing nozzle and dispose of it. Make sure to wipe the end of the glue gun before putting the cap back on. Take the dirty stencil and spreader to the sink and wipe it under running water until the glue is cleaned off, then dry them off. 
+You should also take this time to clean the materials that have glue on them. You can take off the mixing nozzle and dispose of it. Make sure to wipe the end of the glue gun before putting the cap back on. For the dirty stencil and spreader, try to wipe off as much glue as you can using a paper towel. You can then clean the rest of the glue off using acetone and another paper towel.
 
 ### Step 5: Run survey script
 
