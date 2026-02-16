@@ -114,12 +114,27 @@ Then click run script and follow the instructions in the pop-ups. Once you arriv
 2. Flip it over about its short edge 
 3. Place it down on the weight tool 0 chuck (HDI side up, HDI screw holes on right)
 4. Make sure the weight tool is pushed down the pegs all the way and the hose is fed to the right
+
+|Step 2-4|
+|-|
+|![step 3&4](./TFPX-101-materials/images/step3&4.jpg)|
+
 5. Place the glue stencil over the HDI (align the separated strip of holes in the stencil with the separated strip on the HDI)
 6. Make sure the stencil is flush with the HDI
+
+|Step 5-6|
+|-|
+|![step 5&6](./TFPX-101-materials/images/step5&6.jpg)|
+
 7. Gather glue materials (glue gun, mixing nozzle, glue spreader, paper towel)
 8. Place a paper towel on gantry table, this is where you will place things with glue on them so you don't make a mess
 9. Take off the cap on the glue gun and put on a mixing nozzle
-10. Deposit a line of glue a below the lowest row of holes, but above the peg holding the stencil in place
+10. Deposit a line of glue below the lowest row of holes, but above the peg holding the stencil in place
+
+|Step 10|
+|-|
+|![step 10](./TFPX-101-materials/images/step10.jpg)|
+
 11. Place the glue gun down with the nozzle over the paper towel
 12. Pick up the glue spreader with your dominant hand
 13. Use your pointer finger and thumb to apply pressure on the stencil above the top peg and below the bottom peg, respectively
@@ -129,17 +144,13 @@ Then click run script and follow the instructions in the pop-ups. Once you arriv
 17. Grab the top and bottom edges of the stencil and lift it straight off the HDI
 18. Place stencil on paper towel
 
-|Step 3/4|Step 5/6|Step 10|
-|-|-|-|
-|![step 3&4](./TFPX-101-materials/images/step3&4.jpg)|![step 5&6](./TFPX-101-materials/images/step5&6.jpg)|![step 10](./TFPX-101-materials/images/step10.jpg)|
-
 At this point, you can continue with the script, which will then do a survey of the glue pattern, which you should look at to ensure there is glue in all the spots there should be.
 
 |Glue Survey Example|
 |-|
 |![glue survey](./TFPX-101-materials/images/glue_survey.png)|
 
-You can now continue through the script until you have completed the final step of measuring the fiducials on the placed HDI. Lastly, save the assembly log file and glue survey image, both of which are found in the logs directory (`./gantry-config-bu/Logs/`).
+You can now continue through the script until you have completed the final step of measuring the fiducials on the placed HDI. Lastly, make sure to store the generated assembly log file and glue survey image so they can be later recorded in LabLog or the Purdue DB. The assembly log file and glue survey image are both found in the logs directory (`./gantry-config-bu/Logs/`).
 
 ### Step 4: Cure module
 
@@ -153,7 +164,7 @@ You should also take this time to clean the materials that have glue on them. Yo
 
 ### Step 5: Run survey script
 
-After enough time as passed, load the survey script, which will measure the relative alignment of the two parts. That script is currently in the following location:
+After enough time has passed, load the survey script, which will measure the relative alignment of the two parts. That script is currently in the following location:
 
 `./gantry-config-bu/Scripts/TFPXModules/Pre-Production Scripts/Survey_1x2_sensor.gscript`
 

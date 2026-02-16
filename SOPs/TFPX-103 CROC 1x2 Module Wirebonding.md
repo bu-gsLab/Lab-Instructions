@@ -17,7 +17,7 @@
 
 ### Step 1: Stage module
 
-Slide the module carrier on which the glued module is screwed in into the TFPX 1x2 Module Wirebonding Plate. Unlock the wirebonder window by turning the "A-Mode" key, and place the fixture onto the vacuum chuck. Orient the fixture so the wirebond pad side of the module is the side closest to you. Push the fixture corner into the sets of pegs to make alignment easier. Slide the wirebonder window back up and press the "CLAMP" button on the keypad to turn the vacuum on. You must be logged in to turn on the clamp. You can check that the clamp is on by looking at the clamp status icon at the top of the screen. Below is a picture of what the icon should look like.
+Slide the assembly carrier on which the glued module is screwed in into the TFPX 1x2 Module Wirebonding Plate. Unlock the wirebonder window by turning the "A-Mode" key, and place the fixture onto the vacuum chuck. Orient the fixture so the wirebond pad side of the module is the side closest to you. Push the fixture corner into the sets of pegs to make alignment easier. Slide the wirebonder window back up and press the "CLAMP" button on the keypad to turn the vacuum on. You must be logged in to turn on the clamp. You can check that the clamp is on by looking at the clamp status icon at the top of the screen. Below is a picture of what the icon should look like.
 
 |Clamp off|Clamp on|
 |-|-|
@@ -109,7 +109,7 @@ Once you are ready to remove the module from the wirebonder, press "Clamp" to tu
 
 ### Step 10: Update Purdue DB
 
-Log into the Purdue database ([login page](https://www.physics.purdue.edu/cmsfpix/Phase2_Test/main.php)) and login. Here's what to do from there:
+Navigate to the Purdue database ([login page](https://www.physics.purdue.edu/cmsfpix/Phase2_Test/main.php)) and login. Here's what to do from there:
 
 1. Click the "Inspect part (read/write)" button
 2. Type in the serial number of the module you're assembling into the "Serial #" field (e.g. RH0136)
