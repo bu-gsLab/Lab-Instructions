@@ -16,7 +16,7 @@ This SOP describes how to test 1x2 CROC Modules using the TFPX test stand in the
 
 ### Step 1: Install Module in Cold Box
 
-1. Gather the module and probe card from the dry air cabinent in the clean room. The probe card interfaces directly with the HDI via its pins, which is necessary for some tests. <br>
+1. Gather the module and probe card from the dry air cabinent in the clean room. The probe card interfaces directly with the HDI via its pins, which is necessary for some tests, like the ```SLDO Scan```. <br>
 <img src="TFPX-202-materials/images/probe_card.jpg" width="300" alt="Foo diagram"> <br> Be carful not to damage the pins on the probe card as you carry it to the test stand.
 2. Ensure the valve connecting the coolant line to the coldbox is closed. <br>
 <img src="TFPX-202-materials/images/line_closed.png" width="300" alt="Foo diagram"> <br> Begin cooling the coolant in the chiller. Turn the chiller on using the red button on the chiller. <img src="TFPX-202-materials/images/chiller_power.png" width="300" alt="Foo diagram"> <br> Using the dial, highlight "Setpoint", and press the dial in to select. Using the dial, select 5.0 degrees Celsius as the setpoint. Press the dial to select. <br> <img src="TFPX-202-materials/images/chiller_menu.png" width="300" alt="Foo diagram"> <img src="TFPX-202-materials/images/setpoint_menu.png" width="300" alt="Foo diagram"> <br>  Select the power button in the top-right corner using the dial and press to start chilling the coolant. The chiller will go from "Standby" to "On". <br> <img src="TFPX-202-materials/images/chiller_on1.png" width="300" alt="Foo diagram"> <img src="TFPX-202-materials/images/chiller_on2.png" width="300" alt="Foo diagram">
