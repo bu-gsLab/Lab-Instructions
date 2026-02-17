@@ -157,9 +157,12 @@ After the assembly script, you must let the glue cure for at least 8 hours. Make
 |-|
 |![Curing](./TFPX-101-materials/images/curing.jpg)|
 
-You should also take this time to clean the materials that have glue on them. You can take off the mixing nozzle and dispose of it. Make sure to wipe the end of the glue gun before putting the cap back on. For the dirty stencil and spreader, try to wipe off as much glue as you can using a paper towel. You can then clean the rest of the glue off using acetone and another paper towel.
 
-### Step 5: Run survey script
+### Step 5: Clean materials
+
+While the module is curing, you should take this time to clean the materials that have glue on them. You can take off the mixing nozzle and dispose of it. Make sure to wipe the end of the glue gun before putting the cap back on. For the dirty stencil and spreader, try to wipe off as much glue as you can using a paper towel. You can then clean the rest of the glue off using acetone and another paper towel.
+
+### Step 6: Run survey script
 
 After enough time has passed, load the survey script, which will measure the relative alignment of the two parts. That script is currently in the following location:
 
@@ -167,7 +170,7 @@ After enough time has passed, load the survey script, which will measure the rel
 
 Run the script and follow the prompts that pop-up. Select the precise option for measuring the fiducials. After the script completes, save the survey log file, which is found in the logs directory (`./gantry-config-bu/Logs/`).
 
-### Step 6: Weigh module
+### Step 7: Weigh module
 
 You can now pick the module up with a vacuum pen and weigh the module with the high precision scale following a similar process as the earlier weighing. Record the mass and subtract off the sum of the earlier measurements of the individual components.
 
@@ -175,9 +178,9 @@ $m_{\text{glue}}=m_{\text{glued module}}-(m_{\text{SRA}}+m_{\text{HDI}})$
 
 Record this value.
 
-### Step 7: Update the Purdue DB
+### Step 8: Update the Purdue DB
 
-Log into the Purdue database ([login page](https://www.physics.purdue.edu/cmsfpix/Phase2_Test/main.php)) and login. Here's what to do from there:
+Navigate to the Purdue database ([login page](https://www.physics.purdue.edu/cmsfpix/Phase2_Test/main.php)) and login. Here's what to do from there:
 
 1. Click the "Inspect part (read/write)" button
 2. Type in the serial number of the module you're assembling into the "Serial #" field (e.g. RH0136)
