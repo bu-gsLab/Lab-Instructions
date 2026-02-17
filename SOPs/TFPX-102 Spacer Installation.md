@@ -22,6 +22,10 @@
     - Stencil
     - Glue spreader (e.g. plastic card)
 
+|Glue|Mixing nozzle|Stencil|Glue spreader (e.g. plastic card)|
+|-|-|-|-|
+|![glue_gun](./TFPX-102-materials/images/glue_gun.jpg)|![mixing_nozzle](./TFPX-102-materials/images/mixing_nozzle.jpg)|![spacer_stencil](./TFPX-102-materials/images/spacer_stencil.jpg)|![glue_spreader](./TFPX-102-materials/images/glue_spreader.jpg)|
+
 ## Procedure
 
 ### Step 1: Stage parts
@@ -65,14 +69,27 @@ You can now load the spacer installation script into the gScript Interpreter, wh
 
 `./gantry-config-bu/Scripts/TFPXModules/Pre-production Scripts/Spacer_1x2_sensor.gscript`
 
-Run the script and follow the prompts in the pop-ups. The spacer locations are labeled on the brass fixture (0, 1, 2, 3). Once the gantry places the spacer and completes the script, save the generated log file in the Logs directory (`./gantry-config-bu/Logs/`).
+Run the script and follow the prompts in the pop-ups. The spacer locations are labeled on the brass fixture (0, 1, 2, 3). See below for what the HDI fiducial markers should look like.
 
-FIXME: Put a reference image in script for HDI fiducial measurements
+|HDI Fiducial Marker|
+|-|
+|![HDI Fiducial](./TFPX-102-materials/images/hdi_fiducial.png)|
+
+
+Once the gantry places the spacer and completes the script, save the generated log file in the Logs directory (`./gantry-config-bu/Logs/`).
+
+
 
 ### Step 3: Cure spacer
 
-Let the spacer cure for at least 8 hours (FIXME if wrong). Place a note saying "DO NOT TOUCH, GLUE CURING" next to the module so no one unknowingly interferes with this process.
+Let the spacer cure for at least 8 hours. Place a note saying "DO NOT TOUCH, GLUE CURING" next to the module so no one unknowingly interferes with this process.
 
 ### Next steps
 
-After the glue is cured, you can now transfer the module carrier to the wirebonding fixture to immediately begin the wirebonding process, or put the module carrier in the dry air cabinet until you are ready to begin wirebonding.
+After the glue is cured, you can now screw the module into the assembly carrier it's on using two M2.5 screws in the two locations circled in red below.
+
+|Assembly Carrier Screws|
+|-|
+|![Screw locations](./TFPX-102-materials/images/spacer_screws.png)|
+
+At this point, you can now begin the wirebonding process immediately, or put the module/assembly carrier into the dry air cabinet to continue it at a later time.
