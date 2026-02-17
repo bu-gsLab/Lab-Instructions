@@ -4,14 +4,6 @@
 
 ## Required Materials
 
-<details>
-
-<summary>General Comments</summary>
-
-  - [ ] Add pictures of all required materials
-
-</details>
-
 
 - Module components
     - Pre-production HDI
@@ -22,9 +14,14 @@
     - Stencil
     - Glue spreader (e.g. plastic card)
 
-|Glue|Mixing nozzle|Stencil|Glue spreader (e.g. plastic card)|
-|-|-|-|-|
-|![glue_gun](./TFPX-101-materials/images/glue_gun.jpg)|![mixing_nozzle](./TFPX-101-materials/images/mixing_nozzle.jpg)|![module_stencil](./TFPX-101-materials/images/module_stencil.jpg)|![glue_spreader](./TFPX-101-materials/images/glue_spreader.jpg)|
+|Glue|Mixing nozzle|
+|-|-|
+|![glue_gun](./TFPX-101-materials/images/glue_gun.jpg)|![mixing_nozzle](./TFPX-101-materials/images/mixing_nozzle.jpg)|
+
+|Stencil|Glue spreader (e.g. plastic card)|
+|-|-|
+|![module_stencil](./TFPX-101-materials/images/module_stencil.jpg)|![glue_spreader](./TFPX-101-materials/images/glue_spreader.jpg)|
+
 - Equipment
     - Gantry
     - 1x2 module assembly gantry tooling
