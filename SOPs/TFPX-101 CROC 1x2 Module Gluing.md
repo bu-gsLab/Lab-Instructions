@@ -1,6 +1,6 @@
 # TFPX-101 Module Gluing
 
-`Introduction Placeholder`
+This SOP details how to glue a pre-production HDI to a CROCv2 SRA, and how to update the Purdue database to reflect that the parts have been glued.
 
 ## Required Materials
 

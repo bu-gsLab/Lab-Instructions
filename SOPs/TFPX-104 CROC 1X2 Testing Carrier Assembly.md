@@ -1,7 +1,7 @@
 # TFPX-104 CROC 1x2 Testing Carrier Assembly
 
-`TFPX module testing carriers (aka "handles") are typically delivered not fully assembled. 
-This SOP describes how to assemble them and install the module.`
+TFPX module testing carriers (aka "handles") are typically delivered not fully assembled. 
+This SOP describes how to assemble them and install the module.
 
 ## Required Materials
 

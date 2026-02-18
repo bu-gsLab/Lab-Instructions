@@ -1,6 +1,6 @@
 # TFPX-102 Spacer Installation
 
-`Introduction Placeholder`
+This SOP details how to install a spacer onto a glued 1x2 sensor module.
 
 ## References
 

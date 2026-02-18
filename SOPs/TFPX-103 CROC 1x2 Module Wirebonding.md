@@ -1,6 +1,6 @@
 # TFPX-103 CROC 1x2 Module Wirebonding
 
-`Introduction Placeholder`
+This SOP details how to operate a Hesse BJ855 Automatic Wirebonder for wirebonding a 1x2 sensor module after the spacer installation step.
 
 ## Required Materials
 
