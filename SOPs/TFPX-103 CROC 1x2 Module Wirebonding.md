@@ -124,9 +124,9 @@ Still in the "Optimization tab," click the HDI object in the drop down and click
 
 Make sure the deformation graph is cleared out, which can be done by navigating to the graph tab on the left panel of the camera and clicking the "Clear all process curves" button:
 
-|Deformation data tab|
-|-|
-|![Deformation](./TFPX-103-materials/images/DataTab.PNG)|
+|Deformation Data Tab|Clear All Process Curves Button|
+|-|-|
+|![Deformation](./TFPX-103-materials/images/DataTab.PNG)|![ClearButton](./TFPX-103-materials/images/ClearAllProcessCurves.PNG)|
 
 You can now start the bonding by clicking the "All wires (Start)" button on the left panel. The bottom camera tab provides the best angle for watching the bonding. Wait for the bonding to complete, and then look over the bonds.
 
