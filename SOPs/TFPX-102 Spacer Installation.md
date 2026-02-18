@@ -2,12 +2,6 @@
 
 `Introduction Placeholder`
 
-<summary>General Comments</summary>
-
-  - [ ] Add pictures of all required materials
-
-</details>
-
 ## References
 
   - Purdue spacer installation SOP: https://github.com/bu-etl/Lab-Instructions/blob/main/SOPs/TFPX-102-materials/TFPX%20Spacer%20SOP.pdf

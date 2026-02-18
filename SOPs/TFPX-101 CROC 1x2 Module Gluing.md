@@ -31,9 +31,30 @@
 
 ## Procedure
 
+### Step 0: Gather parts
+
+You should first gather the parts for the module you want to assemble. You should start by deciding which module serial number you should assemble. Once you do, navigate to the Purdue DB and log in ([login page](https://www.physics.purdue.edu/cmsfpix/Phase2_Test/main.php?)). Follow these steps:
+
+1. Click "Inspect part (read/write)"
+2. Enter "Boston" in for the "Location" field
+3. Click "Search"
+4. Find the module serial number (e.g. RH0142) you'd like to assemble and click its "Edit" button
+5. Look at the HDI and SRA serial numbers in the "Subcomponents" field
+6. Retrieve the corresponding HDI and SRA/gelpak
+- The gelpak labels and HDI bags should already be labeled with their module serial numbers as part of the component reception procedure
+7. Use the correct SRA in the gelpak
+
+Many times, there are multiple SRAs in a gelpak, and they are not always laid out in the same way that the gelpak label suggests. What you should do to verify you will use the correct SRA is first click the "Edit" button next to the SRA entry in the "Subcomponents" field. Then look at the individual ROC serial numbers:
+
+|ROC labels|
+|-|
+|![ROClabel](./TFPX-101-materials/images/ROClabels.png)|
+
+Particularly, you will want to look at the two characters at the end of the serial number, as this is what gets laser engraved on the ROCs. See the images in step 1 for what this engraving looks like. For the example entry above, I would look for the SRA that has the engraving "3-4" and "4-4" on its ROCs. 
+
 ### Step 1: Inspect parts
 
-Upon receiving new components, conduct a detailed inspection of the SRAs to spot for any damage done prior to our handling of the components/module. Any damage done after this point will ideally be easier to pinpoint to a specific mishandling or part of our procedure that can be learned from and avoided in the future. A sufficient inspection entails pictures of both sides of the SRA that would capture any chips or scratches. Any noticeable damage to the HDI should also be documented. 
+Conduct a detailed inspection of the SRAs to spot for any damage done prior to our handling of the components/module. Any damage done after this point will ideally be easier to pinpoint to a specific mishandling or part of our procedure that can be learned from and avoided in the future. A sufficient inspection entails pictures of both sides of the SRA that would capture any chips or scratches. Any noticeable damage to the HDI should also be documented. 
 
 The picture of the SRA can be done with either a microscope or the gantry camera. Here is an example of a set that captures the entire SRA using the microscope.
 

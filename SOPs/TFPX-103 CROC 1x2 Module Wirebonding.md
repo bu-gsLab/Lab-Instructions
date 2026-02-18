@@ -96,11 +96,17 @@ Click the folder icon in the top left to load a bond program. Navigate to the de
 
 Navigate to the "Define units" tab. Click on the HDI object in the "Aufnahme" drop down. Move the camera to the bottom left corner of the HDI using the red camera joystick.
 
-INSERT PICTURE OF CORRECT LOCATION
+|HDI Origin Location Chip 12|HDI Origin Location Chip 13|
+|-|-|
+|![HDIOriginChip12](./TFPX-103-materials/images/HDIorigin.PNG)|![HDIOriginChip13](./TFPX-103-materials/images/HDIoriginchip13.PNG)|
 
-Once the crosshair is on the bottom left corner of the HDI, click the "Define origin" button on the left panel. It is important that the HDI object is selected when you click this button so the settings are saved properly. Next, adjust the focus (up and down arrows to the right of the red joystick) and lighting (slide bar to the left of the red joystick) until the HDI bondpads are in focus and reasonably bright. Then, click the "Define focus and lighting" button on the left panel. 
+Click the "Define origin" button on the left panel and then click on the bottom left corner of the HDI in the camera window (see above for locations). It is important that the HDI object is selected when you click this button so the settings are saved properly. Next, adjust the focus (up and down arrows to the right of the red joystick) and lighting (slide bar to the left of the red joystick) until the HDI bondpads are in focus and reasonably bright. Then, click the "Define focus and lighting" button on the left panel. 
 
-Repeat this process with the SRA by clicking the SRA object in the drop down. Like the HDI, navigate to the bottom left corner of the SRA and click the "Define origin" button. Then, adjust the focus and lighting and click the "Define focus and lighting" button.
+Repeat this process with the SRA by clicking the SRA object in the drop down. Like the HDI, navigate to the bottom left corner of the SRA define the origin. Then, adjust the focus and lighting and save the settings by clicking the "Define focus and lighting" button.
+
+|SRA Origin Location Chip 12|SRA Origin Location Chip 13|
+|-|-|
+|![SRAOriginChip12](./TFPX-103-materials/images/SRAorigin.PNG)|![SRAOriginChip13](./TFPX-103-materials/images/SRAoriginchip13.PNG)|
 
 ### Step 4: Perform alignment
 
@@ -110,11 +116,11 @@ Click the CROC_1x2_Sensor_Module object in the "Aufnahme" drop down and then cli
 |-|
 |![StartAlignment](./TFPX-103-materials/images/AlignmentButton.PNG)|
 
-The wirebonder will then quickly align the two parts, and will calculate where the bond feet should be. If the yellow lines representing the wires are not visible, enable this using a button on the right side of the camera panel:
+The wirebonder will then quickly align the two parts, and will calculate where the bond feet should be. If the yellow lines representing the wires are not visible, enable them by clicking the wire visibility button on the right side of the camera panel. See below for this button(s) circled in blue along with what the wires should look like after alignment.
 
 |Wire visibility button(s)|
 |-|
-|![WireVisibility](./TFPX-103-materials/images/WireVisibility.PNG)|
+|![WireVisibility](./TFPX-103-materials/images/WireVisibilityButton.PNG)|
 
 If one of the two sets of bond feet are systematically misaligned (e.g. consistently too far to the left side of the bond pads), you can retry the alignment for that part by clicking that object in the drop down and clicking the start alignment button. Once most of the bond feet look good and centered on the pads, you can now adjust any single bond feet that are still not properly centered on their respective bond pads. This can be done by navigating to the "Optimization" tab, entering correction mode by clicking the "Correction" button on the left panel, and dragging the bond feet in the camera window to the desired location. Double check all bond feet on both components are centered well enough. Exit correction mode by clicking the "Correction" button again. 
 
