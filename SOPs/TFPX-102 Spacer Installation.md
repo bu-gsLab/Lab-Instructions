@@ -92,7 +92,7 @@ Let the spacer cure for at least 8 hours. Place a note saying "DO NOT TOUCH, GLU
 
 ### Next steps
 
-After the glue is cured, you can now screw the module into the assembly carrier it's on using two M2 screws in the two locations circled in red below. Do not tighten the screws! Only turn them until the heads start to make contact with the HDI. The module must remain flat on the carrier and over-tightening the screws will cause the module to tilt.
+After the glue is cured, you can now screw the module into the assembly carrier it's on using two M2.5 screws in the two locations circled in red below. Do not tighten the screws! Only turn them until the heads start to make contact with the HDI. The module must remain flat on the carrier and over-tightening the screws will cause the module to tilt.
 
 |Assembly Carrier Screws|
 |-|
