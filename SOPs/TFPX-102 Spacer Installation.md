@@ -51,7 +51,7 @@ Place the module carrier on which the glued module is screwed in onto the desire
 |-|
 |![Step 2](./TFPX-102-materials/images/spacer_step2.jpg)|
 
-3. Lift the stencil off the spacer, being careful that the spacer is not lifted with the stencil. If it is, carefully place it back in the desired location. Then, place the other brass fixture over the spacer, ensuring the orientation is correct (holes should be oriented the same as the stencil).
+3. Lift the stencil off the spacer, being careful that the spacer is not lifted with the stencil. If does lift with the stencil, use tweezers to carefully place it back in the desired location. Then, place the other brass fixture over the spacer, ensuring the orientation is correct (holes should be oriented the same as the stencil).
 
 |Step 3|
 |-|
