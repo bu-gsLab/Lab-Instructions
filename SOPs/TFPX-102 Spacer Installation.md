@@ -51,7 +51,7 @@ Place the module carrier on which the glued module is screwed in onto the desire
 |-|
 |![Step 2](./TFPX-102-materials/images/spacer_step2.jpg)|
 
-3. Lift the stencil off the spacer, being careful that the spacer is not lifted with the stencil. If it is, carefully place it back in the desired location. Then, place the other brass fixture over the spacer, ensuring the orientation is correct (holes should be oriented the same as the stencil).
+3. Lift the stencil off the spacer, being careful that the spacer is not lifted with the stencil. If does lift with the stencil, use tweezers to carefully place it back in the desired location. Then, place the other brass fixture over the spacer, ensuring the orientation is correct (holes should be oriented the same as the stencil).
 
 |Step 3|
 |-|
@@ -92,7 +92,7 @@ Let the spacer cure for at least 3 hours before you attempt to wirebond. Place a
 
 ### Next steps
 
-After the glue is cured, you can now screw the module into the assembly carrier it's on using two M2.5 screws in the two locations circled in red below.
+After the glue is cured, you can now screw the module into the assembly carrier it's on using two M2.5 screws in the two locations circled in red below. Do not tighten the screws! Only turn them until the heads start to make contact with the HDI. The module must remain flat on the carrier and over-tightening the screws will cause the module to tilt.
 
 |Assembly Carrier Screws|
 |-|

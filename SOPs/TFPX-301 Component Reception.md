@@ -28,7 +28,7 @@ You should now update the Purdue database to reflect that the shipment has been 
 4. Click the "Edit" button for the entry
 5. Enter in the current date into the "Date received" field
 
-The database should now be updated to so that all shipped components are now marked as being here at BU. Stay on this page and follow the next step.
+The database should now be updated so that all shipped components are marked as being here at BU. Stay on this page and follow the next step.
 
 ### Step 7: Match components
 
@@ -69,7 +69,7 @@ After doing this, you should know which SRA belongs with each HDI when you get r
 
 ### Step 6: Update LabLog
 
-Make a short LabLog entry with the S&R tag (Shipping and Receiving) saying what was received. Also note any damage or other comments you have about the shipment.
+Make a short LabLog entry with the TFPX and S&R (Shipping and Receiving) tags saying what was received. Also note any damage or other comments you have about the shipment.
 
 ### Step 7: Store in dry air cabinet
 
