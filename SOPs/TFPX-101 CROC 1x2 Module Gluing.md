@@ -50,7 +50,7 @@ Many times, there are multiple SRAs in a gelpak, and they are not always laid ou
 |-|
 |![ROClabel](./TFPX-101-materials/images/ROClabels.png)|
 
-Particularly, you will want to look at the two characters at the end of the serial number, as this is what gets laser engraved on the ROCs. See the images in step 1 for what this engraving looks like. For the example entry above, I would look for the SRA that has the engraving "3-4" and "4-4" on its ROCs. 
+Particularly, you will want to look at the two characters at the end of the serial number, as this is what gets laser engraved on the ROCs. See the images in step 1 for what this engraving looks like. For the example entry above, I would look for the SRA that has the engraving "3_4" and "4_4" on its ROCs. 
 
 ### Step 1: Inspect parts
 

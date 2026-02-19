@@ -88,7 +88,7 @@ Once the gantry places the spacer and completes the script, save the generated l
 
 ### Step 3: Cure spacer
 
-Let the spacer cure for at least 8 hours. Place a note saying "DO NOT TOUCH, GLUE CURING" next to the module so no one unknowingly interferes with this process.
+Let the spacer cure for at least 3 hours before you attempt to wirebond. Place a note saying "DO NOT TOUCH, GLUE CURING" next to the module so no one unknowingly interferes with this process.
 
 ### Next steps
 
