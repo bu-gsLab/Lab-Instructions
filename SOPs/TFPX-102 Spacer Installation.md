@@ -90,6 +90,18 @@ Once the gantry places the spacer and completes the script, save the generated l
 
 Let the spacer cure for at least 3 hours before you attempt to wirebond. Place a note saying "DO NOT TOUCH, GLUE CURING" next to the module so no one unknowingly interferes with this process.
 
+### Step 4: Update Purdue DB
+
+Navigate to the Purdue database ([login page](https://www.physics.purdue.edu/cmsfpix/Phase2_Test/main.php)) and login. Here's what to do from there:
+
+1. Click the "Inspect part (read/write)" button
+2. Type in the serial number of the module you're assembling into the "Serial #" field (e.g. RH0136)
+3. Click the search button
+4. Click the "Edit" button on the left side of the module's entry
+5. Click the dropdown next to the "New property:" field and select the "Spacer installed" option
+6. Enter the day the spacer was installed in the date field to the right of the drop down
+7. Click the "Update" button below 
+
 ### Next steps
 
 After the glue is cured, you can now screw the module into the assembly carrier it's on using two M2.5 screws in the two locations circled in red below. Do not tighten the screws! Only turn them until the heads start to make contact with the HDI. The module must remain flat on the carrier and over-tightening the screws will cause the module to tilt.

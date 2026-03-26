@@ -146,7 +146,7 @@ You can now press "Detect touch down" and then "Single wire."
 
 ### Step 6: Export deformation data
 
-Navigate back to the deformation data tab and click the "Save process curves" button (see below), and save the file to a flash drive. Follow the file name convention below, replacing RH0142 with the module serial number you're assembling and Chip12 with the chip number you just bonded (either Chip12 or Chip13):
+Navigate back to the deformation data tab and click the "Save process curves" button, and save the file to a flash drive. Follow the file name convention below, replacing RH0142 with the module serial number you're assembling and Chip12 with the chip number you just bonded (either Chip12 or Chip13):
 ```
 RH0142_Chip12_Deformation.btd
 ```
@@ -206,7 +206,12 @@ Navigate to the Purdue database ([login page](https://www.physics.purdue.edu/cms
 3. Click the search button (pressing enter won't work)
 4. Click the "Edit" button on the left side of the module's entry
 5. Click the "Status" dropdown and change it to "Wirebonded"
-6. Click the "Update" button
+6. Click the dropdown next to the "New property: " field and select the "Wire bonded" option
+7. Enter the date the wirebonding happened in the date field to the right of the dropdown 
+8. Click the "Update" button
+9. Scroll down to the "Add measurement" field and select "WB_OOPS" in the dropdown on the right
+10. Enter the number of bonds that failed for the whole module while running the bond program (ideally 0)
+11. Click the "Add measurement" button
 
 
 ### Next steps

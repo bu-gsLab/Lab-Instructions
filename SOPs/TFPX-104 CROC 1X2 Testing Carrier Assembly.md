@@ -50,3 +50,15 @@ This SOP describes how to assemble them and install the module.
 9. Fasten the screws in the data & power adapter boards to the testing carrier
 10. Screw the plastic cover onto the testing carrier and label it with the module serial number (make sure that the holes in the top of the cover align with the copper probe points on the HDI)
 ![step10](./TFPX-104-materials/step10.jpg)
+
+## Update Purdue DB
+
+After the module has been installed into the testing carrier, the module has been assembled. We now need the Purdue DB entry for this module to reflect this. Navigate to the Purdue database ([login page](https://www.physics.purdue.edu/cmsfpix/Phase2_Test/main.php)) and login. Here's what to do from there:
+
+1. Click the "Inspect part (read/write)" button
+2. Type in the serial number of the module you're assembling into the "Serial #" field (e.g. RH0136)
+3. Click the search button
+4. Click the "Edit" button on the left side of the module's entry
+5. Locate the date field next to the "Assembly date:" text
+6. Enter in the date the module was installed into the testing carrier
+7. Click the "Update" button located below
