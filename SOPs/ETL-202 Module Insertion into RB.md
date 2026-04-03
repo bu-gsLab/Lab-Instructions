@@ -73,6 +73,6 @@ Since the two asymmetric blocks look quite similar, here are side by side pictur
 
 10. Remove the insertion block.
 
-11. Slide off the insertion collar and slide the module cover back on.
+11. Slide off the insertion collar and slide the cover window back on.
 
 12. To take the module off the RB, you can gently pry the module PCB from any of it's corners until it unseats. Do this carefully. 
