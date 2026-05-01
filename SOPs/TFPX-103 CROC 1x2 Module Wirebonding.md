@@ -136,7 +136,7 @@ Make sure the deformation graph is cleared out, which can be done by navigating 
 
 You can now start the bonding by clicking the "All wires (Start)" button on the left panel. The bottom camera tab provides the best angle for watching the bonding. Wait for the bonding to complete, and then look over the bonds.
 
-If any bonds are missing, you can retry individual wires by selecting the wire you wish to redo (something like W50 in the bottom left drop down), right-clicking it, and resetting its state. To ensure it will do the correct wire, make sure that the order number for the wire matches what is displayed in the selection area. In the image below, 
+If any bonds fail, it is helpful to go to the manual bonding station and lay down a few manual bonds. Failed bonds can sometimes leave the wedge in a bad state (e.g. leaving too much wire fed through or not enough), so a few manual bonds should return it to a good state. You can then retry individual wires by selecting the wire you wish to redo (something like W50 in the bottom left drop down), right-clicking it, and resetting its state. To ensure it will do the correct wire, make sure that the order number for the wire matches what is displayed in the selection area. In the image below, 
 
 |Selected Wire|
 |-|
